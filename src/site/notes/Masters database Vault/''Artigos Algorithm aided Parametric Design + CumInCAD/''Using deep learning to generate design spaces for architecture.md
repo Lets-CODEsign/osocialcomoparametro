@@ -1,0 +1,15 @@
+---
+cumincad: 579
+ano_de_publicação: "2023"
+tipo: Artigo de congresso
+conferência: IJAC (Journal)
+publicação: International Journal ofArchitectural Computing
+escala: Arquitetura
+source_sample: No
+dg-publish: true
+---
+
+Categorização
+[[ºAI integration]]
+[[ºArchitecture Automation]]
+[[ºShape-finding]]

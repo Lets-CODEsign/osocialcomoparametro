@@ -1,0 +1,253 @@
+{
+  "main": {
+    "id": "9c28c9c7e9270973",
+    "type": "split",
+    "children": [
+      {
+        "id": "69ddc6fe54551442",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "50a3763e6bc606c3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "O social como parâmetro.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "O social como parâmetro"
+            }
+          },
+          {
+            "id": "247db34ebe6f7895",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "ºCategorias de classificação/Algorithmic Processes/ºAgent-based modeling (ABM).md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "ºAgent-based modeling (ABM)"
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "495026ab79fdeccf",
+    "type": "split",
+    "children": [
+      {
+        "id": "8c00a2b11371ae22",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "04735b02c204c715",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "f293eb41595bfde2",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "dataview",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "0105a2950a90e80f",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "288c872740e82291",
+    "type": "split",
+    "children": [
+      {
+        "id": "4fbf0db93c539f4a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f71d99f1663329e2",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "ºCategorias de classificação/Algorithmic Processes/ºAgent-based modeling (ABM).md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for ºAgent-based modeling (ABM)"
+            }
+          },
+          {
+            "id": "e2a0034944272b10",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "ºCategorias de classificação/Algorithmic Processes/ºAgent-based modeling (ABM).md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from ºAgent-based modeling (ABM)"
+            }
+          },
+          {
+            "id": "98a5495f9a1d521c",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "549a4145e5ef2ada",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "82dddd71bfdffd41",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Master's Database/''Artigos Algorithm aided Parametric Design + CumInCAD/''3D Generative Design for Non-Experts_Multiview Perceptual Similarity with Agent-Based Reinforcement Learning.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of ''3D Generative Design for Non-Experts_Multiview Perceptual Similarity with Agent-Based Reinforcement Learning"
+            }
+          },
+          {
+            "id": "4d71b6de8b60879c",
+            "type": "leaf",
+            "state": {
+              "type": "file-properties",
+              "state": {
+                "file": "ºCategorias de classificação/Algorithmic Processes/ºAgent-based modeling (ABM).md"
+              },
+              "icon": "lucide-info",
+              "title": "File properties for ºAgent-based modeling (ABM)"
+            }
+          }
+        ],
+        "currentTab": 5
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "digitalgarden:Digital Garden Publication Center": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false
+    }
+  },
+  "active": "247db34ebe6f7895",
+  "lastOpenFiles": [
+    "O social como parâmetro.md",
+    "''Artigos Algorithm aided Parametric Design + CumInCAD/''(CDRF) InterspeciesForms.md",
+    "ºCategorias de classificação/Construction methods/ºMateriality.md",
+    "ºCategorias de classificação/ºCategorias de classificação.md",
+    "(número) Obras mais citadas/(número) Obras mais citadas.md",
+    "¬Palavras-chave dos artigos filtrados (categorizadas)/¬Palavras-chave dos artigos filtrados (categorizadas).md",
+    "(CA) Coding/(CA) Coding.md",
+    "''Artigos Algorithm aided Parametric Design + CumInCAD/''Urbanising Mars_Establishing an Urban Framework for Martian Settlement Through Sequential Evolutionary Simulations.md",
+    "''Artigos Algorithm aided Parametric Design + CumInCAD/''Urban Scale Digital Twins Vis-a-Vis Complex Phenomena_Datafication and social and environmental equity.md",
+    "''Artigos Algorithm aided Parametric Design + CumInCAD/''Urban flood resilience in Kampung Melayu_A multi-objective evolutionary approach.md",
+    "''Artigos Algorithm aided Parametric Design + CumInCAD/''The use of visual programming interface for structuring a generic digital framework in a city information modeling workflow.md",
+    "''Artigos Algorithm aided Parametric Design + CumInCAD/''The Use of Parametric Mapping as an Analysis Method in Contextual Design Studio.md",
+    "''Artigos Algorithm aided Parametric Design + CumInCAD/''The DesignMind Toolkit_ A toolkit for evidence-based, cognitively-informed and human-centred architectural design.md",
+    "''Artigos Algorithm aided Parametric Design + CumInCAD/''TESSERACT_Integrated Reconfigurable Autonomous Architecture System.md",
+    "''Artigos Algorithm aided Parametric Design + CumInCAD/''Some Spatial Experiments_Student work exploring intersections between computing, biological and semiotic theory through architecture.md",
+    "''Artigos Algorithm aided Parametric Design + CumInCAD/''Resilient by design_Informing pandemic-safe building redesign with computational models of resident congestion.md",
+    "''Artigos Algorithm aided Parametric Design + CumInCAD/''RECOMM. Measuring resilient communities_An analytical and predictive tool.md",
+    "''Artigos Algorithm aided Parametric Design + CumInCAD/''Propositions for Enabling Participation in Performance-Driven Design.md",
+    "''Artigos Algorithm aided Parametric Design + CumInCAD/''Pertinence and possibility(s) of ontological approaches in parametric digital design procedures.md",
+    "''Artigos Algorithm aided Parametric Design + CumInCAD/''Parasite City_Retaining the Industrial District of Alexandria, Sydney as an Integral Part of Urban Regeneration.md",
+    "''Artigos Algorithm aided Parametric Design + CumInCAD/''Parametric Sankey_Interactive Mapping of Complex Material Flows for Urban and Architectural Design.md",
+    "''Artigos Algorithm aided Parametric Design + CumInCAD/''Parametric evaluation of urban compactness in Brazil.md",
+    "''Artigos Algorithm aided Parametric Design + CumInCAD/''NoMoTown - An agent-based model of transport mode choice.md",
+    "''Artigos Algorithm aided Parametric Design + CumInCAD/''Developing the Reinforcement-Learning Child Agents for Measuring Play and Learning Performance in Kindergarten Design.md",
+    "''Artigos Algorithm aided Parametric Design + CumInCAD/''Lines of Flight_Facade Design for Multispecies Migrations.md",
+    "''Artigos Algorithm aided Parametric Design + CumInCAD/''Landscape Information Modeling for vulnerable landscape recovery_the case of Bom Jardim in Fortaleza, Ceará, Brazil.md"
+  ]
+}

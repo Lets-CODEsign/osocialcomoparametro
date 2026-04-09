@@ -1,0 +1,53 @@
+---
+dg-publish: true
+---
+*Lista dos artigos filtrados*
+
+<!-- QueryToSerialize: TABLE length(filter(file.outlinks, (o) => contains(o.file.folder, "@Autores dos artigos filtrados"))) AS "Nº Autores" FROM "''Artigos Algorithm aided Parametric Design + CumInCAD" WHERE source_sample = "Yes" SORT length(filter(file.outlinks, (o) => contains(o.file.folder, "@Autores dos artigos filtrados"))) DESC -->
+<!-- SerializedQuery: TABLE length(filter(file.outlinks, (o) => contains(o.file.folder, "@Autores dos artigos filtrados"))) AS "Nº Autores" FROM "''Artigos Algorithm aided Parametric Design + CumInCAD" WHERE source_sample = "Yes" SORT length(filter(file.outlinks, (o) => contains(o.file.folder, "@Autores dos artigos filtrados"))) DESC -->
+
+| File                                                                                                                                                                                                                                                                                                                                                                                     | Nº Autores |
+| ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------- |
+| [[''A Regionalist Approach to Generative Design Process_From Concept to BIM Model]]                                                                                                                                                           | 6          |
+| [[''Landscape Information Modeling for vulnerable landscape recovery_the case of Bom Jardim in Fortaleza, Ceará, Brazil]]                                                                               | 6          |
+| [[''Some Spatial Experiments_Student work exploring intersections between computing, biological and semiotic theory through architecture]]                                             | 6          |
+| [[''A Web-based Interactive Tool for Urban Fabric Generation_A Case Study of Chinese Rural Context]]                                                                                                                         | 5          |
+| [[''Collaborating with the crowd]]                                                                                                                                                                                                                                                             | 5          |
+| [[''Effects of a Visual Perception-Equipped Fire Evacuee Simulation on the Design Trade-Offs in Students’ Architectural Projects]]                                                             | 5          |
+| [[''An Alternative Model for Urban Renewal_A Generative Approach to the (Re)-Development of Xian Village]]                                                                                                             | 4          |
+| [[''Damascus House_ Exploring the connectionist embodiment of the Islamic environmental intelligence by design]]                                                                                                 | 4          |
+| [[''Integrated Reconfigurable Autonomous Architecture System]]                                                                                                                                                                                                     | 4          |
+| [[''Parasite City_Retaining the Industrial District of Alexandria, Sydney as an Integral Part of Urban Regeneration]]                                                                                       | 4          |
+| [[''RECOMM. Measuring resilient communities_An analytical and predictive tool]]                                                                                                                                                                   | 4          |
+| [[''TESSERACT_Integrated Reconfigurable Autonomous Architecture System]]                                                                                                                                                                                 | 4          |
+| [[''The use of visual programming interface for structuring a generic digital framework in a city information modeling workflow]]                                                               | 4          |
+| [[''Urbanising Mars_Establishing an Urban Framework for Martian Settlement Through Sequential Evolutionary Simulations]]                                                                                 | 4          |
+| [[''A Synergy of AI Observation and Design Tool_Leveraging Multifaceted AI Techniques for Encoding Human Behaviors and Stories in Space]]                                               | 3          |
+| [[''CAMPUSIM_An Integrated Parametric BIM for Campus Design Simulation and Optimization]]                                                                                                                                               | 3          |
+| [[''Data-Driven Urban Research Tools Within Design Education_New Perspectives on Complex Urban Data and Processes]]                                                                                           | 3          |
+| [[''Embedding Design Intent into Performance-Based Architectural Design—Case Study of Applying Soft Constraints to Design Optimization]]                                                 | 3          |
+| [[''Evolutive Dataset for Social Housing Design Projects through Artificial Intelligence]]                                                                                                                                             | 3          |
+| [[''Exploring Large Language Model as a Design Partner through Verbal and Non-verbal Conversation in Architectural Design Process]]                                                           | 3          |
+| [[''Lines of Flight_Facade Design for Multispecies Migrations]]                                                                                                                                                                                                   | 3          |
+| [[''NoMoTown - An agent-based model of transport mode choice]]                                                                                                                                                                                                     | 3          |
+| [[''Parametric Sankey_Interactive Mapping of Complex Material Flows for Urban and Architectural Design]]                                                                                                                 | 3          |
+| [[''Pertinence and possibility(s) of ontological approaches in parametric digital design procedures]]                                                                                                                       | 3          |
+| [[''Propositions for Enabling Participation in Performance-Driven Design]]                                                                                                                                                                             | 3          |
+| [[''The DesignMind Toolkit_ A toolkit for evidence-based, cognitively-informed and human-centred architectural design]]                                                                                   | 3          |
+| [[''The Use of Parametric Mapping as an Analysis Method in Contextual Design Studio]]                                                                                                                                                       | 3          |
+| [[''Agent-based modeling and simulation of pandemic propagation in a school environment]]                                                                                                                                               | 2          |
+| [[''Autonomous Collective Housing Platform_Digitization, Fluidization and Materialization of Ownership]]                                                                                                                 | 2          |
+| [[''Computational Schematic Design Utilizing Self-Organizing Programmatic Agents - A novel approach to visualizing and organizing urban and architectural data]] | 2          |
+| [[''Demand-Driven Distributed Adaptive Space Planning Based on Reinforcement Learning]]                                                                                                                                                   | 2          |
+| [[''Developing the Reinforcement-Learning Child Agents for Measuring Play and Learning Performance in Kindergarten Design]]                                                                           | 2          |
+| [[''Parametric evaluation of urban compactness in Brazil]]                                                                                                                                                                                                             | 2          |
+| [[''Resilient by design_Informing pandemic-safe building redesign with computational models of resident congestion]]                                                                                         | 2          |
+| [[''Urban flood resilience in Kampung Melayu_A multi-objective evolutionary approach]]                                                                                                                                                     | 2          |
+| [[''Agent-Based Semiology - Simulating office occupation patterns with conversation-based social models]]                                                                                                               | 1          |
+| [[''Architectural Assemblages as Computational Medium_Introducing Assembler, a tool for the design and study of architectural assemblages]]                                           | 1          |
+| [[''Customising Urban Joy_Urban Planning Mechanisms for the Mass - Customisation of Cities, through the Quantifiable Nature of Joy]]                                                         | 1          |
+| [[''Urban Scale Digital Twins Vis-a-Vis Complex Phenomena_Datafication and social and environmental equity]]                                                                                                         | 1          |
+
+<!-- SerializedQuery END -->
+
+

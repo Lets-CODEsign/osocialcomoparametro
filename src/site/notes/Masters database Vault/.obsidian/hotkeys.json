@@ -1,0 +1,10 @@
+{
+  "dataview-serializer:convert-all-dataview-queries-in-file": [
+    {
+      "modifiers": [
+        "Alt"
+      ],
+      "key": "S"
+    }
+  ]
+}
